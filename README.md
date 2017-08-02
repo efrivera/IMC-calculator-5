@@ -1,4 +1,4 @@
-# IMC Calculator Exercise 4
+# IMC Calculator Exercise 5
 
 ## Objetivo
 
@@ -21,4 +21,4 @@ Haz click en los links de cada feature de ES2015+ propuesto. Así sepas el conce
 
 Eres realmente experto en ES2015+ y el reto no es suficiente? Agrega mas características de ES2015+ en tu código.
 
-[< Anterior ejercicio](https://github.com/efrivera/IMC-calculator-4)
+[< Ejercicio anterior](https://github.com/efrivera/IMC-calculator-4)
